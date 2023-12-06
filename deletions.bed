@@ -1,0 +1,21 @@
+track name=Deletions type=bed visibility=full color=255,0,0
+description="Schematic visualization of deletions"
+
+2    218867043    227924308    Deletion1_Sample1
+2    222595785    227593187    Deletion2_Sample2
+2    221832204    221947044    Deletion3_Sample3
+2    223493392    223801135    Deletion4_Sample4
+2    224141418    225738732    Deletion5_Sample5
+2    225538704    227312851    Deletion6_Sample6
+2    214809770    230509780    Deletion7_Sample7
+2    214809770    225609779    Deletion8_Sample8
+2    220677938    225464751    Deletion9_Sample9
+2    227245095    227281292    Deletion10_Sample10
+2    220242325    224302911    Deletion11_Sample11
+2    220535279    227535284    Deletion12_Sample12
+2    220369425    224832646    Deletion13_Sample13
+2    221255109    226429766    Deletion14_Sample14
+2    221120613    227469741    Deletion15_Sample15
+2    218867043    224365686    Deletion16_Sample16
+2    224365686    227343278    MiddleRegion_Sample16
+2    227343278    235339168    Deletion17_Sample16

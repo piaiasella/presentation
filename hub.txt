@@ -1,0 +1,5 @@
+hub DeletionsHub
+shortLabel Deletions Hub
+longLabel Schematic visualization of deletions
+genomesFile genomes.txt
+email iasellamariapia@gmail.com
