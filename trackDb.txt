@@ -1,8 +1,8 @@
-track deletions_track
-shortLabel Deletions Track
-longLabel Schematic visualization of deletions
+track MyDeletions
+bigDataUrl https://raw.githubusercontent.com/piaiasella/presentation/main/deletions.bed
+shortLabel Deletions
+longLabel Deletions Track
 type bed 3
 visibility full
 itemRgb on
 color 255,0,0
-bigDataUrl deletions.bed
