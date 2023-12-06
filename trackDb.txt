@@ -1,8 +1,8 @@
-track MyDeletions
+track Deletions
 bigDataUrl https://raw.githubusercontent.com/piaiasella/presentation/main/deletions.bed
 shortLabel Deletions
 longLabel Deletions Track
-type bed 3
+type bed
 visibility full
 itemRgb on
 color 255,0,0
