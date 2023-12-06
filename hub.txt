@@ -3,4 +3,4 @@ shortLabel Deletions Hub
 longLabel Schematic visualization of deletions
 genomesFile genomes.txt
 email iasellamariapia@gmail.com
-descriptionUrl https://raw.githubusercontent.com/yourusername/yourrepository/main/description.txt
+descriptionUrl https://raw.githubusercontent.com/piaiasella/presentation/main/description.txt
