@@ -1,8 +1,163 @@
-track Deletions
+#track name=Deletions description="Schematic visualization of deletions"
+
+track Deletions_Sample1
 bigDataUrl https://raw.githubusercontent.com/piaiasella/presentation/main/deletions.bed
-shortLabel Deletions
-longLabel Deletions Track
-type bed 4
+shortLabel Deletion1_Sample1
+longLabel Deletion1_Sample1
+type bed 3
+visibility full
+itemRgb on
+color 255,0,0
+
+track Deletions_Sample2
+bigDataUrl https://raw.githubusercontent.com/piaiasella/presentation/main/deletions.bed
+shortLabel Deletion2_Sample2
+longLabel Deletion2_Sample2
+type bed 3
+visibility full
+itemRgb on
+color 255,0,0
+
+track Deletions_Sample3
+bigDataUrl https://raw.githubusercontent.com/piaiasella/presentation/main/deletions.bed
+shortLabel Deletion3_Sample3
+longLabel Deletion3_Sample3
+type bed 3
+visibility full
+itemRgb on
+color 255,0,0
+
+track Deletions_Sample4
+bigDataUrl https://raw.githubusercontent.com/piaiasella/presentation/main/deletions.bed
+shortLabel Deletion4_Sample4
+longLabel Deletion4_Sample4
+type bed 3
+visibility full
+itemRgb on
+color 255,0,0
+
+track Deletions_Sample5
+bigDataUrl https://raw.githubusercontent.com/piaiasella/presentation/main/deletions.bed
+shortLabel Deletion5_Sample5
+longLabel Deletion5_Sample5
+type bed 3
+visibility full
+itemRgb on
+color 255,0,0
+
+track Deletions_Sample6
+bigDataUrl https://raw.githubusercontent.com/piaiasella/presentation/main/deletions.bed
+shortLabel Deletion6_Sample6
+longLabel Deletion6_Sample6
+type bed 3
+visibility full
+itemRgb on
+color 255,0,0
+
+track Deletions_Sample7
+bigDataUrl https://raw.githubusercontent.com/piaiasella/presentation/main/deletions.bed
+shortLabel Deletion7_Sample7
+longLabel Deletion7_Sample7
+type bed 3
+visibility full
+itemRgb on
+color 255,0,0
+
+track Deletions_Sample8
+bigDataUrl https://raw.githubusercontent.com/piaiasella/presentation/main/deletions.bed
+shortLabel Deletion8_Sample8
+longLabel Deletion8_Sample8
+type bed 3
+visibility full
+itemRgb on
+color 255,0,0
+
+track Deletions_Sample9
+bigDataUrl https://raw.githubusercontent.com/piaiasella/presentation/main/deletions.bed
+shortLabel Deletion9_Sample9
+longLabel Deletion9_Sample9
+type bed 3
+visibility full
+itemRgb on
+color 255,0,0
+
+track Deletions_Sample10
+bigDataUrl https://raw.githubusercontent.com/piaiasella/presentation/main/deletions.bed
+shortLabel Deletion10_Sample10
+longLabel Deletion10_Sample10
+type bed 3
+visibility full
+itemRgb on
+color 255,0,0
+
+track Deletions_Sample11
+bigDataUrl https://raw.githubusercontent.com/piaiasella/presentation/main/deletions.bed
+shortLabel Deletion11_Sample11
+longLabel Deletion11_Sample11
+type bed 3
+visibility full
+itemRgb on
+color 255,0,0
+
+track Deletions_Sample12
+bigDataUrl https://raw.githubusercontent.com/piaiasella/presentation/main/deletions.bed
+shortLabel Deletion12_Sample12
+longLabel Deletion12_Sample12
+type bed 3
+visibility full
+itemRgb on
+color 255,0,0
+
+track Deletions_Sample13
+bigDataUrl https://raw.githubusercontent.com/piaiasella/presentation/main/deletions.bed
+shortLabel Deletion13_Sample13
+longLabel Deletion13_Sample13
+type bed 3
+visibility full
+itemRgb on
+color 255,0,0
+
+track Deletions_Sample14
+bigDataUrl https://raw.githubusercontent.com/piaiasella/presentation/main/deletions.bed
+shortLabel Deletion14_Sample14
+longLabel Deletion14_Sample14
+type bed 3
+visibility full
+itemRgb on
+color 255,0,0
+
+track Deletions_Sample15
+bigDataUrl https://raw.githubusercontent.com/piaiasella/presentation/main/deletions.bed
+shortLabel Deletion15_Sample15
+longLabel Deletion15_Sample15
+type bed 3
+visibility full
+itemRgb on
+color 255,0,0
+
+track Deletions_Sample16
+bigDataUrl https://raw.githubusercontent.com/piaiasella/presentation/main/deletions.bed
+shortLabel Deletion16_Sample16
+longLabel Deletion16_Sample16
+type bed 3
+visibility full
+itemRgb on
+color 255,0,0
+
+track MiddleRegion_Sample16
+bigDataUrl https://raw.githubusercontent.com/piaiasella/presentation/main/deletions.bed
+shortLabel MiddleRegion_Sample16
+longLabel MiddleRegion_Sample16
+type bed 3
+visibility full
+itemRgb on
+color 0,255,0
+
+track Deletions_Sample17
+bigDataUrl https://raw.githubusercontent.com/piaiasella/presentation/main/deletions.bed
+shortLabel Deletion17_Sample16
+longLabel Deletion17_Sample16
+type bed 3
 visibility full
 itemRgb on
 color 255,0,0
