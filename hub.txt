@@ -4,4 +4,4 @@ longLabel Schematic visualization of deletions
 genomesFile genomes.txt
 email iasellamariapia@gmail.com
 descriptionUrl https://raw.githubusercontent.com/piaiasella/presentation/main/description.txt
-trackDb https://raw.githubusercontent.com/piaiasella/presentation/main/hg38/trackDb.txt
+trackDb https://raw.githubusercontent.com/piaiasella/presentation/main/trackDb.txt
