@@ -134,30 +134,3 @@ longLabel The data in this track is format "bigBed 4"
 visibility full
 itemRgb on
 color 255,0,0
-
-track Deletions_Sample16
-type bigBed 4
-bigDataUrl https://raw.githubusercontent.com/piaiasella/presentation/main/deletions.bed
-shortLabel Deletion16_Sample16
-longLabel The data in this track is format "bigBed 4"
-visibility full
-itemRgb on
-color 255,0,0
-
-track MiddleRegion_Sample16
-type bigBed 4
-bigDataUrl https://raw.githubusercontent.com/piaiasella/presentation/main/deletions.bed
-shortLabel MiddleRegion_Sample16
-longLabel The data in this track is format "bigBed 4"
-visibility full
-itemRgb on
-color 0,255,0
-
-track Deletions_Sample17
-type bigBed 4
-bigDataUrl https://raw.githubusercontent.com/piaiasella/presentation/main/deletions.bed
-shortLabel Deletion17_Sample16
-longLabel The data in this track is format "bigBed 4"
-visibility full
-itemRgb on
-color 255,0,0
